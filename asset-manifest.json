@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CometEdu/static/css/main.e6c13ad2.css",
+    "main.js": "/CometEdu/static/js/main.03bed3f3.js",
+    "static/js/453.1896bca8.chunk.js": "/CometEdu/static/js/453.1896bca8.chunk.js",
+    "index.html": "/CometEdu/index.html",
+    "main.e6c13ad2.css.map": "/CometEdu/static/css/main.e6c13ad2.css.map",
+    "main.03bed3f3.js.map": "/CometEdu/static/js/main.03bed3f3.js.map",
+    "453.1896bca8.chunk.js.map": "/CometEdu/static/js/453.1896bca8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.03bed3f3.js"
+  ]
+}
